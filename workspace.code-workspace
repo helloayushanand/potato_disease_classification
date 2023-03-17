@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\aaaa"
+		},
+		{
+			"path": "..\\..\\aa"
+		},
+		{
+			"path": "..\\..\\c++\\vscode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp"
+		}
+	}
+}
